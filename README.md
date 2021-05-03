@@ -1,8 +1,8 @@
 # Pharmacy-Management-System
-# project Environment:
-  Php,bootstrap,html,css 
-  Visual Studio code
-  XAAMP
+### project Environment:
+ ##### Php,bootstrap,html,css 
+ ##### Visual Studio code
+  ##### XAAMP
   
 
 # Admin:
