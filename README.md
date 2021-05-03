@@ -1,6 +1,6 @@
 # Pharmacy-Management-System
-!--------------------!
-Admin:
+
+# Admin:
 	1.See Dashboard
 	2.See all Manager, Add Manager, Edit Manager, Delete Manager
 	3.See all Pharmacist, Add Pharmacist, Edit Parmacist, Delete Pharmacist
@@ -8,7 +8,7 @@ Admin:
 	5.Modify Profile
 	6.Change Password
 
-Manager:
+# Manager:
 	1.See Dashboard
 	2.See all Manager
 	3.See all Pharmacist, Add Pharmacist, Edit Parmacist, Delete Pharmacist
@@ -16,7 +16,7 @@ Manager:
 	5.Modify Profile
 	6.Change Password
 
-Pharmacist:
+# Pharmacist:
 	1.See Dashboard
 	2.See all Manager
 	3.See all Pharmacist
@@ -24,7 +24,7 @@ Pharmacist:
 	5.Modify Profile
 	6.Change Password
 
-Salesman:
+# Salesman:
 	1.See Dashboard
 	2.See all Manager
 	3.See all Pharmacist
